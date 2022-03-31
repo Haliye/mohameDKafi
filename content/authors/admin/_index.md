@@ -5,7 +5,7 @@ bio: Some random Dude who happens to fall in love with computer science and
   technology in general.
 social: []
 organizations: []
-superuser: true
+superuser: false
 status:
   icon: ☕️
 ---
